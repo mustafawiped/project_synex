@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musta\\source\\repos\\SynexApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|c:\\users\\musta\\source\\repos\\synexapi\\synexapi\\models\\activecalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|solutionrelative:synexapi\\models\\activecalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|c:\\users\\musta\\source\\repos\\synexapi\\synexapi\\hubs\\webrtchub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|solutionrelative:synexapi\\hubs\\webrtchub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|c:\\users\\musta\\source\\repos\\synexapi\\synexapi\\hubs\\conversationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|solutionrelative:synexapi\\hubs\\conversationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|c:\\users\\musta\\source\\repos\\synexapi\\synexapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|solutionrelative:synexapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|c:\\users\\musta\\source\\repos\\synexapi\\synexapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|solutionrelative:synexapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|c:\\users\\musta\\source\\repos\\synexapi\\synexapi\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|solutionrelative:synexapi\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|c:\\users\\musta\\source\\repos\\synexapi\\synexapi\\controllers\\conversationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|solutionrelative:synexapi\\controllers\\conversationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|c:\\users\\musta\\source\\repos\\synexapi\\synexapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|solutionrelative:synexapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|c:\\users\\musta\\source\\repos\\synexapi\\synexapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|solutionrelative:synexapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|c:\\users\\musta\\source\\repos\\synexapi\\synexapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08FC104A-0049-4171-A33C-9B39D6F37A76}|SynexApi\\SynexApi.csproj|solutionrelative:synexapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActiveCalls.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Models\\ActiveCalls.cs",
+              "RelativeDocumentMoniker": "SynexApi\\Models\\ActiveCalls.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Models\\ActiveCalls.cs",
+              "RelativeToolTip": "SynexApi\\Models\\ActiveCalls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:41:55.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebRTCHub.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Hubs\\WebRTCHub.cs",
+              "RelativeDocumentMoniker": "SynexApi\\Hubs\\WebRTCHub.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Hubs\\WebRTCHub.cs",
+              "RelativeToolTip": "SynexApi\\Hubs\\WebRTCHub.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:39:11.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConversationHub.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Hubs\\ConversationHub.cs",
+              "RelativeDocumentMoniker": "SynexApi\\Hubs\\ConversationHub.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Hubs\\ConversationHub.cs",
+              "RelativeToolTip": "SynexApi\\Hubs\\ConversationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:39:00.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SynexApi\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "SynexApi\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:38:22.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SynexApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SynexApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:38:07.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "SynexApi\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "SynexApi\\Controllers\\MessagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:37:12.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConversationsController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Controllers\\ConversationsController.cs",
+              "RelativeDocumentMoniker": "SynexApi\\Controllers\\ConversationsController.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Controllers\\ConversationsController.cs",
+              "RelativeToolTip": "SynexApi\\Controllers\\ConversationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:37:09.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SynexApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SynexApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T11:35:19.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Program.cs",
+              "RelativeDocumentMoniker": "SynexApi\\Program.cs",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\Program.cs",
+              "RelativeToolTip": "SynexApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:35:03.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SynexApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\musta\\source\\repos\\SynexApi\\SynexApi\\appsettings.json",
+              "RelativeToolTip": "SynexApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T11:34:31.582Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

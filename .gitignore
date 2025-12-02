@@ -1,0 +1,40 @@
+##############################
+# .NET API (SynexApi)
+##############################
+
+# Derleme çıktıları
+# .NET API
+SynexApi/SynexApi/bin/
+SynexApi/SynexApi/obj/
+SynexApi/SynexApi/.vs/
+SynexApi/SynexApi/*.user
+SynexApi/SynexApi/*.suo
+SynexApi/SynexApi/Keys/firebase-key.json
+
+##############################
+# Flutter (SynexApplication)
+##############################
+
+# Flutter genel
+SynexApplication/.dart_tool/
+SynexApplication/.packages
+SynexApplication/build/
+SynexApplication/pubspec.lock
+
+# Android ve iOS gizli servis dosyaları
+SynexApplication/android/app/google-services.json
+SynexApplication/ios/Runner/GoogleService-Info.plist
+
+##############################
+# MySQL Script (database_query)
+##############################
+
+# Geçici ve yedek dosyalar
+database_query/*.tmp
+database_query/*.bak
+
+##############################
+# Ortak gereksizler
+##############################
+.DS_Store
+Thumbs.db
