@@ -7,6 +7,7 @@ Modern bir mobil mesajlaşma uygulaması.
 - Kullanıcı yönetimi
 - Güvenli kimlik doğrulama
 - Modüler API mimarisi
+- Anlık mobil bildirimler (mesaj, arama)
 
 ## Teknolojiler
 ### Mobil Uygulama
@@ -23,6 +24,9 @@ Modern bir mobil mesajlaşma uygulaması.
 
 ### Gerçek Zamanlı İletişim
 - **WebRTC** (Sesli konuşma)
+  
+### Gerçek Zamanlı Mobil Bildirimler
+- **Firebase Notification**
 
 ## Proje Yapısı
 ```
